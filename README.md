@@ -18,6 +18,71 @@ $$
 
 ## Inspirations
 
+- https://endler.dev/2020/rust-compile-times/
+- https://karpathy.ai/
+- https://without.boats/blog/futures-and-segmented-stacks/
+- https://blog.rust-lang.org/inside-rust/2020/06/08/new-inline-asm.html
+- https://endler.dev/2019/tinysearch/
+- https://lauren-mccarthy.com/Smarter-Home
+- https://ozwrites.com/masters/
+- https://irrlab.com/
+- https://explorabl.es/
+- https://blog.krastanov.org/2020/02/17/pcb-layout-timelapse/
+- https://electronupdate.blogspot.com/2019/12/dollar-store-led-bulb.html?m=1
+
+- https://krasjet.com/rnd.wlk/julia/
+- http://kylehalladay.com/blog/2019/04/18/I-Wrote-A-Book.html
+- http://kylehalladay.com/blog/2020/05/20/Rendering-With-Notepad.html
+- *** good checklist of what is needed ***
+    - http://fabiensanglard.net/ilike/index.html
+- https://blog.scottlogic.com/2020/05/01/rendering-one-million-points-with-d3.html
+- https://ozwrites.com/masters/
+    - nice footnotes
+- https://blog.ionelmc.ro/2015/02/09/understanding-python-metaclasses/
+- http://harryjstevens.com/
+- http://systrom.com/blog/the-metric-we-need-to-manage-covid-19/
+- https://www.tedinski.com/book/
+- https://rcoh.me/posts/hash-map-analysis/
+- https://www.evanjones.ca/ordered-vs-unordered-indexes.html
+- https://aturon.github.io/blog/2015/08/27/epoch/
+- https://jvns.ca/blog/brag-documents/
+- https://internalpointers.com/post/understanding-memory-ordering
+- https://danluu.com/new-cpu-features/
+- https://danluu.com/assembly-intrinsics/
+- https://danluu.com/algorithms-interviews/
+- https://lemire.me/blog/2018/09/07/avx-512-when-and-how-to-use-these-new-instructions/
+- https://travisdowns.github.io/blog/2019/08/26/vector-inc.html
+- https://hsivonen.fi/string-length/
+- https://dropbox.tech/infrastructure/optimizing-web-servers-for-high-throughput-and-low-latency
+- https://thomashartmann.dev/blog/feature(slice_patterns)/
+- https://fasterthanli.me/blog/2020/working-with-strings-in-rust/
+- https://www.thirtythreeforty.net/posts/2019/12/mastering-embedded-linux-part-2-hardware/
+- https://www.thirtythreeforty.net/posts/2019/12/my-business-card-runs-linux/
+- https://erikbern.com/2017/05/23/conversion-rates-you-are-most-likely-computing-them-wrong.html
+- https://better.engineering/2019/07/29/modeling-conversion-rates-and-saving-millions-of-dollars-using-kaplan-meier-and-gamma-distributions/
+- https://embeddedbits.org/2020-02-20-extracting-firmware-from-devices-using-jtag/
+- https://fiigii.com/2020/02/16/Does-register-selection-matter-to-performance-on-x86-CPUs/
+- https://blog.racket-lang.org/2020/02/racket-on-chez-status.html
+- https://stephenbaek.github.io/projects/zernet/
+- https://www.nayuki.io/page/btree-set
+- https://marctenbosch.com/
+- https://frame.42yeah.casa/2020/01/30/wfc.html
+- https://www.evilsocket.net/2018/11/22/Presenting-project-Ergo-how-to-build-an-airplane-detector-for-satellite-imagery-with-Deep-Learning/
+- https://alain.xyz/blog/image-editor-effects#webgl-example
+- https://mmcloughlin.com/posts/geohash-assembly
+- https://pythonspeed.com/articles/base-image-python-docker-images/
+- https://julien.danjou.info/
+- https://travisdowns.github.io/blog/2020/01/17/avxfreq1.html
+- https://andygrove.io/2020/01/rust-database-connectivity-rdbc/
+- https://brandur.org/nanoglyphs/008-actix
+- https://tonisagrista.com/blog/2019/keyframe-based-camera-recorder/
+- https://tannerchristensen.com/blog/2019/12/23/where-ic-designers-go-once-they-peak
+- https://openai.com/blog/ai-and-compute/
+- https://css-irl.info/7-uses-for-css-custom-properties/
+- https://www.snoyman.com/blog/2019/12/rust-crash-course-09-tokio-0-2
+- https://raphlinus.github.io/ui/druid/2019/11/22/reactive-ui.html
+  - https://github.com/jekyll/minima
+- https://blog.seantheprogrammer.com/thoughts-on-arbitrary-pagination
 - https://boyter.org/posts/enough-tmux-to-be-productive-in-5-minutes/
 - https://www.hillelwayne.com/post/talk-fast/
 - http://lukaskalbertodt.github.io/2019/11/26/rust-2020-power-to-the-type-system.html
