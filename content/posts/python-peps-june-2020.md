@@ -11,7 +11,7 @@ All PEPs are still under discussion but given the proponents, it is expected tha
 
 **PEP-620**:  Hide implementation details from the C API*
 
-This one is under the hood for most of us but will enable more aggressive changes in the runtime. Many of us struggle with pure Python performance and sometimes even think that the core developers are kind of lazy on this. Why other dynamically typed languages are so fast (I am looking at you Javascript and Julia). One the reason is the badly exposed inner workings of the runtime. Any C extension can use internals and depend on it for years. Compatibility is a must, so Python core developers get stuck.
+This one is under the hood for most of us but will enable more aggressive changes in the runtime. Many of us struggle with pure Python performance and sometimes even think that the core developers are kind of lazy on this aspect. Why other dynamically typed languages are so fast? (I am looking at you Javascript and Julia). One the reason is the badly exposed inner workings of the runtime. Any C extension can use internals and depend on it for years. Compatibility is a must, so Python core developers get stuck.
 
 This PEP will allow internals to change without breaking compatibility. It is a work in progress, some of my patches in 3.9 were related to it.
 
