@@ -8,6 +8,8 @@ theme = "hugo-coder"
 
 paginate = 20
 
+googleAnalytics = "UA-3062863-5"
+
 [permalinks]
   posts = "/:year/:month/:title/"
 
